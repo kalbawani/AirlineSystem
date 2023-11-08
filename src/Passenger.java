@@ -9,12 +9,10 @@ public class Passenger {
         this.airClass = airClass;
     }
 
-    //getter
     private String getName() {
         return name;
     }
 
-    //setter
     public void setName(String name) {
         name = name;
     }
